@@ -1,0 +1,19 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Storage and persistence artifacts
+*.aof
+*.rdb
+*.tmp
+*.log
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.user

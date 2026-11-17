@@ -1,0 +1,3 @@
+@echo off
+echo Starting FlashKV Server on port 6379...
+flashkv-server.exe --port 6379 --threads 4 --shards 64
